@@ -30,3 +30,8 @@ print(status)
 
 temperature = 30
 print("Hot" if temperature > 23 else "Moderate")
+
+
+user_role = "ADMIN"
+
+print("Full Access" if user_role == "ADMIN" else "Some UI Access")
