@@ -26,3 +26,7 @@ age = 17
 
 status = "Adult " if age >= 18 else "Children"
 print(status)
+
+
+temperature = 30
+print("Hot" if temperature > 23 else "Moderate")
