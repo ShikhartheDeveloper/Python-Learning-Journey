@@ -48,8 +48,8 @@ print(res)
 
 #min() max()
 
-k = max(x,y,z)
+k = max(x,y,z)              #gives maximum value
 print(k)
 
-l = min(x,y,z)
+l = min(x,y,z)              #gives minimum value
 print(l)

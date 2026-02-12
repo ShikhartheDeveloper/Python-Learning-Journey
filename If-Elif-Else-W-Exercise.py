@@ -6,10 +6,10 @@
 
     #Exercise 1
 
-price  = float(input("Enter the price of any item : "))
-if price > 100 :
-    print("Price is too high")
-elif price > 49:
-    print("Price is good")
-else :
-    print("Price is very low")
+# price  = float(input("Enter the price of any item : "))
+# if price > 100 :
+#     print("Price is too high")
+# elif price > 49:
+#     print("Price is good")
+# else :
+#     print("Price is very low")

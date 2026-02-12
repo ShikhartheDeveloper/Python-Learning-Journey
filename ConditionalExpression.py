@@ -35,3 +35,8 @@ print("Hot" if temperature > 23 else "Moderate")
 user_role = "ADMIN"
 
 print("Full Access" if user_role == "ADMIN" else "Some UI Access")
+
+
+
+is_everything_ok = False
+print("EveryThing is Okay" if is_everything_ok else "EveryThing is not Okay")
